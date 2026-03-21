@@ -1,0 +1,3 @@
+VITE_API_URL=https://myapartmentserver.pxxl.click/api
+VITE_WEATHER_ENDPOINT=/api/weather
+VITE_ENV=production
